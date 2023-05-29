@@ -18,8 +18,13 @@ Genre
 NA_sales — sales in North America (millions of sold copies)
 
 EU_sales — sales in Europe
+
 JP_sales — sales in Japan
+
 Other_sales — sales in another countries
+
 Critic_Score — score of critics (max 100)
+
 User_Score — score of user (max 10)
+
 Rating — rating ESRB (Entertainment Software Rating Board). This association determines the rating of computer games and assigns them an appropriate age category.
