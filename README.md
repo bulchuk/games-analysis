@@ -8,10 +8,15 @@ Our goal - perform data pre-processing, conduct exploratory analysis to identify
 Data description:
 
 Name
+
 Platform
+
 Year_of_Release
+
 Genre
+
 NA_sales — sales in North America (millions of sold copies)
+
 EU_sales — sales in Europe
 JP_sales — sales in Japan
 Other_sales — sales in another countries
