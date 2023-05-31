@@ -1,6 +1,6 @@
 # My Projects
 
-These projects were completed during training at Yandex.Practicum, profession "Data Analyst".
+These projects were completed during the training at Yandex.Practicum, profession "Data Analyst".
 
 | Project | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
