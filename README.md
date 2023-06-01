@@ -10,4 +10,4 @@ These projects were completed during the training at Yandex.Practicum, professio
 |  |  |  |
 | [Business decision-making](business-decision-making) | Testing hypotheses to increase the revenue of an online store.| *pandas, matplotlib, scipy, datetime, numpy*|
 |  |  |  |
-| [Business performance analysis of an entertainment mobile app](bus-performance-analysis) | Business analysis of an entertainment mobile application.| *pandas, matplotlib, datetime, numpy*|
+| [Business performance analysis of an entertainment mobile app](bus-performance-analysis) | Business analysis of an entertainment mobile application. Using LTV, ROI and CAC to perform an advertising ROI analysis. | *pandas, matplotlib, datetime, numpy*|
