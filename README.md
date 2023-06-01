@@ -9,3 +9,5 @@ These projects were completed during the training at Yandex.Practicum, professio
 | [Analysis of the user behavior of the mobile application](mobile-app-user-behavior) | We need to understand how users of a mobile application for selling products behave.| *pandas, matplotlib, scipy, datetime, numpy, statsmodels, plotly*|
 |  |  |  |
 | [Business decision-making](business-decision-making) | Testing hypotheses to increase the revenue of an online store.| *pandas, matplotlib, scipy, datetime, numpy*|
+|  |  |  |
+| [Business performance analysis of an entertainment mobile app](bus-performance-analysis) | Business analysis of an entertainment mobile application.| *pandas, matplotlib, datetime, numpy*|
