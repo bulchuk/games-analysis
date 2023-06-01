@@ -6,8 +6,11 @@
 We need to understand how users of a mobile application for selling products behave using the next data:
 
 EventName — name of the event;
+
 DeviceIDHash — unique user id;
+
 EventTimestamp — time event;
+
 ExpId — number of experiment: 246 and 247 — control groups, and 248 — experimental.
 
 ## Task
