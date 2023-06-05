@@ -1,4 +1,4 @@
-# Project - Business performance analysis of an entertainment mobile app
+# Project - Business performance analysis of the entertainment mobile app
 
 
 ## Data
