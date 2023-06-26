@@ -1,20 +1,20 @@
 # Project - Games Analysis
 
+## Business areas 
 
-## Data
-
-We have the next data about the games and platforms:
-- Name of the game
-- Name of the platform
-- Year of release
-- Genre
-- Sales in North America, Europe, Japan and other regions
-- Critic and user score
-- ESRB Rating
+GameDev, Online Store
 
 ## Task
 
-To identify patterns that determine the success of the game. This will allow us to bid on a potentially popular product and plan advertising campaigns 
+To identify patterns that determine the success of a game, using historical data of computer games sales, user and expert scores, genres and platforms.
 
-## Libraries
-*pandas, numpy, matplotlib, seaborn, scipy*
+## Libraries and Skills
+*pandas, numpy, matplotlib, seaborn, scipy, data preprocessing, descriptive statistics, testing of statistical hypothesis*
+
+## Conclusion
+
+The parameters that determine the success of the game in different regions of the world have been identified. On the basis of this the report was prepared for a computer games store to plan advertising campaigns.
+Data preprocessing and analysis were carried out. The current period for analysis has been selected.
+Users profile of each region were compiled.
+Hypotheses tested: the average user ratings of the Xbox One and PC platforms are the same; the average user ratings for the Action and Sports genres are different.
+In the analysis we used Student's t-test for independent samples.
