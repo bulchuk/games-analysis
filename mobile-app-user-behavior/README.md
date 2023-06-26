@@ -1,23 +1,17 @@
 # Project - Analysis of the user behavior of the mobile application
 
+## Business areas
 
-## Data
-
-We need to understand how users of a mobile application for selling products behave using the next data:
-
-EventName — name of the event;
-
-DeviceIDHash — unique user id;
-
-EventTimestamp — time event;
-
-ExpId — number of experiment: 246 and 247 — control groups, and 248 — experimental.
+Internet services, StartUp
 
 ## Task
 
-We need to study how and how many users make a purchase, as well as how many users get stuck on previous steps and on which ones.
+Task for entertainment app marketing analyst. Despite huge investments in advertising, the company has been losing money for the past few months. Your task is to understand the reasons and help the company to become profitable.
 
-Additionally, we need to investigate the results of the A/A/B experiment, as the designers wanted to change the fonts throughout the application, and the managers believe that it will be unusual for users. The decision will be made based on the results of the A/A/B test.
+## Libraries and Skills
+*pandas, numpy, matplotlib, seaborn, scipy, datetime, statsmodels, plotly, cohort analysis, unit economics, product metrics*
 
-## Libraries
-*pandas, numpy, matplotlib, seaborn, scipy, datetime, statsmodels, plotly*
+## Conclusion
+
+Analyzed data of mobile app.
+Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc. The previously written functions for calculating metrics are used. The correct conclusions are made on the basis of the data obtained.
