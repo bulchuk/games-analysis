@@ -1,22 +1,19 @@
-# Project - Business performance analysis of the entertainment mobile app
+# Project - Analysis of the user behavior of the mobile application
 
+## Business areas
 
-## Data
-
-There is data about users attracted from May 1 to October 27, 2019:
-
-server log with data about their visits,
-
-unloading their purchases for this period,
-
-advertising expenses.
-
-Despite huge investments in advertising the company has been losing money for the past few months.
+Internet services, StartUp
 
 ## Task
 
-To perform business analysis of an entertainment mobile application, to understand the reasons of losing money and help the company to become profitable.
+Task for entertainment app marketing analyst. Despite huge investments in advertising, the company has been losing money for the past few months. Your task is to understand the reasons and help the company to become profitable.
 
-## Libraries
+## Libraries and Skills
+*pandas, numpy, matplotlib, seaborn, scipy, datetime, statsmodels, plotly, cohort analysis, unit economics, product metrics*
+
+## Conclusion
+
+Analyzed data of mobile app.
+Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc. The previously written functions for calculating metrics are used. The correct conclusions are made on the basis of the data obtained.
+
 *pandas, matplotlib, datetime, numpy*
-
