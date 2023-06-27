@@ -2,18 +2,16 @@
 
 ## Business areas
 
-Internet services, StartUp
+Internet services, StartUp, Business
 
 ## Task
 
-Task for entertainment app marketing analyst. Despite huge investments in advertising, the company has been losing money for the past few months. Your task is to understand the reasons and help the company to become profitable.
+Analyze the sales funnel and evaluate the results of A/A/B testing based on data from the use of a mobile application for selling food products.
 
 ## Libraries and Skills
-*pandas, numpy, matplotlib, seaborn, scipy, datetime, statsmodels, plotly, cohort analysis, unit economics, product metrics*
+*A/B-tests, python, pandas, matplotlib, seaborn, event analytics, product metrics, plotly, testing of statistical hypotheses, data visualization*
 
 ## Conclusion
 
-Analyzed data of mobile app.
-Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc. The previously written functions for calculating metrics are used. The correct conclusions are made on the basis of the data obtained.
-
-*pandas, matplotlib, datetime, numpy*
+In this project I studied the principles of event analytics. I built a sales funnel, explored the path of users to purchase.
+I have analyzed the results of an A/B-test for introducing new fonts. I compared 2 control groups with each other, made sure that the traffic was divided correctly, and then compared it with the test group. It is revealed that the new font will not significantly affect user behavior.
