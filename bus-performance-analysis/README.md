@@ -1,4 +1,4 @@
-# Project - Analysis of the user behavior of the mobile application
+# Project - Business performance analysis of an entertainment mobile app
 
 ## Business areas
 
@@ -6,12 +6,13 @@ Internet services, StartUp, Business
 
 ## Task
 
-Analyze the sales funnel and evaluate the results of A/A/B testing based on data from the use of a mobile application for selling food products.
+To perform business analysis of an entertainment mobile application. Despite huge investments in advertising the company has been losing money for the past few months. Our task is to understand the reasons and help the company to become profitable.
 
 ## Libraries and Skills
-*A/B-tests, python, pandas, matplotlib, seaborn, event analytics, product metrics, plotly, testing of statistical hypotheses, data visualization*
+*python, pandas, numpy, matplotlib, product metrics, marketing*
 
 ## Conclusion
 
-In this project I studied the principles of event analytics. I built a sales funnel, explored the path of users to purchase.
-I have analyzed the results of an A/B-test for introducing new fonts. I compared 2 control groups with each other, made sure that the traffic was divided correctly, and then compared it with the test group. It is revealed that the new font will not significantly affect user behavior.
+I have conducted an analysis of users and acquistion channels an entertainment mobile app. I have determined the channel with the highest ad costs and CAC, while users from this channel are at a stable retention rate, and the conversion is low.  
+Additionally I found the channel that brings the highest proportion of paying users, but at the same time, shows the lowest retention rate.
+Based on the analysis I could give a recommendation to marketing department. Also it is recommended to conduct a cohort analysis on the cross section of channels and regions, because some channels may give high conversion only in one particular region, and their performance may be reduced at the expense of other regions.
