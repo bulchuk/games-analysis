@@ -6,7 +6,7 @@ These projects were completed during the training at Yandex.Practicum, professio
 | :---------------------- | :---------------------- | :---------------------- |
 | [Analysis of the games and platforms success patterns](games-analysis) | We need to identify patterns that determine the success of the game. This will allow us to bid on a potentially popular product and plan advertising campaigns.| *pandas, numpy, matplotlib, seaborn, scipy*|
 |  |  |  |
-| [Analysis of the user behavior of the mobile application](mobile-app-user-behavior) | We need to understand how users of a mobile application for selling products behave.| *pandas, numpy, matplotlib, seaborn, scipy, datetime, statsmodels, plotly, cohort analysis, unit economics, product metrics*|
+| [Analysis of the user behavior of the mobile application](mobile-app-user-behavior) | Task for entertainment app marketing analyst. Despite huge investments in advertising, the company has been losing money for the past few months. Your task is to understand the reasons and help the company to become profitable.| *pandas, numpy, matplotlib, seaborn, scipy, datetime, statsmodels, plotly, cohort analysis, unit economics, product metrics*|
 |  |  |  |
 | [Business decision-making](business-decision-making) | Testing hypotheses to increase the revenue of an online store.| *pandas, matplotlib, scipy, datetime, numpy*|
 |  |  |  |
