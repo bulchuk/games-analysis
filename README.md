@@ -10,4 +10,4 @@ These projects were completed during the training at Yandex.Practicum, professio
 |  |  |  |
 | [Business decision-making](business-decision-making) | To prioritize hypotheses and to evaluate the results of A/B testing by various methods, using the data of the online store.| *pandas, matplotlib, scipy, datetime, numpy, A/B-tests, testing of statistical hypothesis*|
 |  |  |  |
-| [Business performance analysis of an entertainment mobile app](bus-performance-analysis) | Business analysis of an entertainment mobile application. Using LTV, ROI and CAC to perform an advertising ROI analysis. | *python, pandas, numpy, matplotlib, product metrics, marketing*|
+| [Business performance analysis of an entertainment mobile app](bus-performance-analysis) | To perform business analysis of an entertainment mobile application. Despite huge investments in advertising the company has been losing money for the past few months. Our task is to understand the reasons and help the company to become profitable. | *python, pandas, numpy, matplotlib, product metrics, marketing*|
