@@ -18,3 +18,6 @@ Data preprocessing and analysis were carried out. The current period for analysi
 Users profile of each region were compiled.
 Hypotheses tested: the average user ratings of the Xbox One and PC platforms are the same; the average user ratings for the Action and Sports genres are different.
 In the analysis we used Student's t-test for independent samples.
+
+## Project status
+Completed.
