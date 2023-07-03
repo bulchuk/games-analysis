@@ -16,3 +16,6 @@ Analyze the sales funnel and evaluate the results of A/A/B-tests based on data f
 In this project I have studied the principles of event analytics. I built a sales funnel, explored the path of users to purchase. 
 I have analyzed the results of an A/B-test for introducing new fonts. 
 I compared 2 control groups with each other, made sure that the traffic was divided correctly, and then compared it with the test group. It is revealed that the new font will not significantly affect user behavior.
+
+## Project status
+Completed.
