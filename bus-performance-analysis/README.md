@@ -14,3 +14,6 @@ This is the task for a marketing analyst of the entertainment mobile app. Despit
 ## Conclusion
 
 The analysis of mobile app was carried out. Various metrics were calculated, cohort analysis was used: LTV, CAC, Retention rate, DAU, WAU, MAU, etc. The previously written functions for calculating metrics are used. The correct conclusions are drawn from the data obtained.
+
+## Project status
+Completed.
