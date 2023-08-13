@@ -1,7 +1,5 @@
 # My Projects
 
-These projects were completed during the training at Yandex.Practicum, profession "Data Analyst".
-
 | Project | Description | Libraries&Skills | Project Status |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
 | [Analysis of the games and platforms success patterns](games-analysis) | To identify patterns that determine the success of a game, using historical data of computer games sales, user and expert scores, genres and platforms.| *pandas, numpy, matplotlib, seaborn, scipy, data preprocessing, descriptive statistics, testing of statistical hypothesis*| Completed |
